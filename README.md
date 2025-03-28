@@ -1,3 +1,3 @@
-# Making stuff in python and Go
+# Making stuff
 
 Currently a computer science student at SVU
