@@ -1,3 +1,3 @@
 # Making stuff
 
-Currently a computer science student at SVU
+Currently a computer science student at Columbus State University (GA)
